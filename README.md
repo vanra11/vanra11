@@ -38,6 +38,7 @@ BlueJava; Python; MATLAB; Arduino
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanra11&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanra11&layout=compact&theme=radical)
+![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/arnav-chourey-09b44a250/
