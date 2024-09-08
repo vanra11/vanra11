@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**vanra11/vanra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Arnav Chourey
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Final year Electronic and Communication Engineering student at VIT Bhopal University
+- 💻 I upload codes in various languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding Achievements  
+- ✅ Completed 50-day coding challenge on GeeksforGeeks
+- 🧩 Solved 174 problems on GeeksforGeeks
+- 🏆 Total GfG coding score: 584
+
+## Skills
+BlueJava; Python; MATLAB; Arduino
+
+## Projects
+- Football if Super League happened
+- ML-in-Wind-Power
+- 16Front-End
+
+## Connect with Me
+LinkedIn: https://www.linkedin.com/in/arnav-chourey-09b44a250/
