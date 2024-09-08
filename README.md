@@ -39,7 +39,8 @@ BlueJava; Python; MATLAB; Arduino
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanra11&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanra11&layout=compact&theme=radical)
 ![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=vanra11&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanra11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contribution Calendar](https://github-contributions.now.sh/?username=vanra11&theme=dark)
+
 
 
 ## Connect with Me
