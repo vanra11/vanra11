@@ -35,10 +35,10 @@ BlueJava; Python; MATLAB; Arduino
 - **Technologies:** ESP32, Arduino IDE, BLEDevice Library
 - https://github.com/vanra11/IoT_Project_LowEnergyBluetoothService
 
-- ### Project 4: QP360
+### Project 4: QP360
 - **Description:** Created a web application using HTML, CSS, and JavaScript that serves as a comprehensive repository of past question papers for college semester examinations. The website provides students with easy access to a wealth of historical exam materials, facilitating effective study and preparation.
 - **Technologies:** HTML, CSS, JS
-- [coming soon]
+- https://github.com/vanra11/QP360
 
 ### Project 5: Website Log-in pages
 - **Description:** Recreated the log-in pages of various websites in a customized style.
