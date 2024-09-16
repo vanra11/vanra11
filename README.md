@@ -15,7 +15,7 @@
 BlueJava; Python; MATLAB; Arduino
 
 ## Skills
-- **Languages:** Python, C++, HTML, JavaScript
+- **Languages:** BlueJava, Python, C++, HTML, JavaScript
 - **Tools:** Git, Power BI, MATLAB, MS Excel
 - **Technologies:** Machine Learning, Neural Networks, SQL
 
@@ -43,7 +43,7 @@ BlueJava; Python; MATLAB; Arduino
 ### Project 5: Website Log-in pages
 - **Description:** Recreated the log-in pages of various websites in a customized style.
 - **Technologies:** HTML, CSS
-- https://github.com/vanra11/ML-in-Wind-Power)](https://github.com/vanra11/16Front-end
+- https://github.com/vanra11/16Front-end
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanra11&show_icons=true&theme=radical)
