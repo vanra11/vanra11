@@ -23,22 +23,22 @@ BlueJava; Python; MATLAB; Arduino
 ### Project 1: Fantasy Football Simulation
 - **Description:** Developed a Fantasy Football League simulation to predict the table if the European Super League happened. This project incorporates various rules and simulations to create an accurate fantasy league experience.
 - **Technologies:** Java, Python
-- [[GitHub Link](#)](https://github.com/vanra11/If-Super-League-happened)
+- https://github.com/vanra11/If-Super-League-happened
 
 ### Project 2: ML in Wind Power
 - **Description:** Analyzed how machine learning can be integrated with wind power data to enhance forecasting and efficiency. This project includes various ML models to predict wind power output and improve the overall understanding of wind energy dynamics.
 - **Technologies:** Python, MATLAB
-- [[GitHub Link](#)](https://github.com/vanra11/ML-in-Wind-Power)
+- https://github.com/vanra11/ML-in-Wind-Power
 
 ### Project 3: IoT Low Energy Bluetooth Service
 - **Description:** Developed an application using the ESP32 development board to broadcast BLE services for temperature and humidity measurements. This project includes simulating sensor data or interfacing with actual sensors to advertise temperature and humidity readings over BLE.
 - **Technologies:** ESP32, Arduino IDE, BLEDevice Library
-- [[GitHub Link](#)]https://github.com/vanra11/IoT_Project_LowEnergyBluetoothService
+- https://github.com/vanra11/IoT_Project_LowEnergyBluetoothService
 
 ### Project 4: Website Log-in pages
 - **Description:** Recreated the log-in pages of various websites in a customized style.
 - **Technologies:** HTML, CSS
-- [[[GitHub Link](#)](https://github.com/vanra11/ML-in-Wind-Power)](https://github.com/vanra11/16Front-end)
+- https://github.com/vanra11/ML-in-Wind-Power)](https://github.com/vanra11/16Front-end
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanra11&show_icons=true&theme=radical)
