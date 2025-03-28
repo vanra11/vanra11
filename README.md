@@ -25,10 +25,11 @@ BlueJava; Python; MATLAB; Arduino
 - **Technologies:** Java, Python
 - https://github.com/vanra11/If-Super-League-happened
 
-### Project 2: ML in Wind Power
-- **Description:** Analyzed how machine learning can be integrated with wind power data to enhance forecasting and efficiency. This project includes various ML models to predict wind power output and improve the overall understanding of wind energy dynamics.
+### Project 2: ML in Wind Power and PV production
+- **Description:** Analyzed how machine learning can be integrated with wind power data and solar power data to enhance forecasting and efficiency. This project includes various ML models to predict wind power output and solar power output on various parameters and improve the overall understanding through error performance and graphs.
 - **Technologies:** Python, MATLAB
 - https://github.com/vanra11/ML-in-Wind-Power
+- https://github.com/vanra11/ML-in-Solar-Energy
 
 ### Project 3: IoT Low Energy Bluetooth Service
 - **Description:** Compiled an application using the ESP32 development board to broadcast BLE services for temperature and humidity measurements. This project includes simulating sensor data or interfacing with actual sensors to advertise temperature and humidity readings over BLE.
@@ -48,7 +49,6 @@ BlueJava; Python; MATLAB; Arduino
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanra11&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanra11&layout=compact&theme=radical)
-![GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=vanra11&theme=radical)
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanra11&theme=radical)
 
 ## Connect with Me
