@@ -7,10 +7,7 @@
 - 💻 I upload codes in various languages
 
 ## Skills
-BlueJava; Python; MATLAB; Arduino
-
-## Skills
-- **Languages:** BlueJava, Python, C++, HTML, JavaScript
+- **Languages:** BlueJava, Python, C++, HTML, JavaScript, Arduino
 - **Tools:** Git, Power BI, MATLAB, MS Excel
 - **Technologies:** Machine Learning, Neural Networks, SQL
 
