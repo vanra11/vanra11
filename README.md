@@ -47,7 +47,7 @@ BlueJava; Python; MATLAB; Arduino
 - https://github.com/vanra11/16Front-end
 
 ### Project 6: Antenna-Designs
-- **Description:** Plotting the charactreistics of multiple antennas.
+- **Description:** Plotting the characteristics of multiple antennas.
 - **Technologies:** MATLAB
 - https://github.com/vanra11/Antenna-Designs
 
