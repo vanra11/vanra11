@@ -3,7 +3,8 @@
 # My name is Arnav Chourey
 
 ## About Me
-- 🎓 Final year Electronic and Communication Engineering student at VIT Bhopal University
+- 📖 Pursuing MBA from IIM Bodh Gaya
+- 🎓 Electronic and Communication Engineering Graduate from VIT Bhopal University
 - 💻 I upload codes in various languages
 
 ## Skills
